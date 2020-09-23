@@ -20,9 +20,9 @@ Reproducibility of scientific contributions is an important aspect of scholarshi
 
 ### Neural Nets
 
-- **Transfer Learning for Non-Intrusive Load Monitoring.** (2019). [[pdf]]() [[code]](https://github.com/MingjunZhong/transferNILM)
+- **Transfer Learning for Non-Intrusive Load Monitoringe.** (2020). [[pdf]](https://ieeexplore.ieee.org/document/8818314) [[code]](https://github.com/MingjunZhong/transferNILM)
   - D. Michele et al. *IEEE TSG.*
-
+  
 - **Neural NILM: Deep neural networks applied to energy disaggregation** (2015) [[pdf]](http://jack-kelly.com/files/writing/neural_nilm.pdf) [[code]](https://github.com/JackKelly/neuralnilm)
   - J. Kelly et al. *BuildSys'15*
 
